@@ -9,4 +9,4 @@ Insights and recommendations are provided on the following key areas:
 * **Crime Trends Over Time:** An evaluation of crime over time.
 * **Victim Demographics:** Analyzing the distribution of victim age.
 * **Geographic Crime Patterns:** Analyzing the area name with the highest number of crimes based on the date occurred.
-* **Time-Related Patterns:** Getting the average time to report a crime. 
+* **Time-Related Patterns:** Analyzing the average time to report a crime. 
