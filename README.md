@@ -18,7 +18,7 @@ The Python (Pandas, Matplotlib) code regarding various business questions can be
 The Tableau dashboard used to report and explore patterns by time and location can be found here[].
 
 # Data Structure & Initial Checks
-LA Crime database structure as seen below consists of one table with a total row count of records. A description of each column is as follows:
+LA Crime database structure as seen below consists of one table with a total row count of 852,950 records. A description of each column is as follows:
 *
 *
 
