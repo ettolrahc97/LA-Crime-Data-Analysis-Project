@@ -10,8 +10,11 @@ Insights and recommendations are provided on the following key areas:
 * **Victim Demographics:** Analyzing the distribution of victim age.
 * **Geographic Crime Patterns:** Analyzing the area with the highest number of crimes based on the date occurred.
 * **Time-Related Patterns:** Analyzing the average time to report a crime.
+  
 The Pandas code used to inspect and clean the data for this analysis can be found here[].
+
 The Pandas code regarding various business questions can be found here[].
+
 The visualizations used to report and explore patterns by time and location can be found here[].
 
 # Data Structure & Initial Checks
