@@ -46,18 +46,17 @@ LA Crime database structure as seen below consists of one table with a total row
 # Executive Summary
 **Overview of Findings**
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 # Insights Deep Dive
 **Category 1:**
 
-- **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+- **Main insight 1.** 
 [Visualization specific to category 1]
 
 # Recommendations:
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: HYPOTHESIS I therefore conclude that the observations
+Based on the insights and findings above, the recommendations to consider the following: 
 
 # Assumptions & Caveats
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
