@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
   
 The Python (Pandas) code used to inspect and clean the data for this analysis can be found [here](Understand_and_Prepare_data.ipynb).
 
-The Python (Pandas, Matplotlib) code regarding various business questions can be found here[].
+The Python (Pandas, Matplotlib) code regarding various business questions can be found [here](Analysis_Regarding_Questions.ipynb).
 
 The Tableau dashboard used to report and explore patterns by time and location can be found here[].
 
