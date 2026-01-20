@@ -57,9 +57,9 @@ The overall trend indicates sustained crime activity over the period. Crime show
 ![](Overview_of_LA_CRIME_Analysis.png)
 
 # Insights Deep Dive
-**Category 1:**
+**Crime Trends Over Time:** Overall crimes highlights the importance of identifying dominant crime types and patterns to prioritize prevention and resource allocation. This suggests that property crimes and theft-related offenses are the most prevalent, particularly involving vehicles. The crimes tend to involve older victims, possibly reflecting workplace-related or situational offenses rather than street-level crimes. Immediate reporting is more common for public, visible, or urgent incidents, where victims or witnesses seek rapid response. The delays of reported crimes may reflect sensitive cases, fear of reporting, or prolonged investigation timelines, especially for crimes involving minors or internal misconduct. 
 
-- **Main insight 1.** 
+- **Areas with most crimes during night-time.** 
 [Visualization specific to category 1]
 
 # Recommendations:
