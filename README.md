@@ -1,4 +1,4 @@
-# LA-Crime-Data-Analysis-Project
+<img width="1203" height="810" alt="Overview_of_LA_CRIME_Analysis" src="https://github.com/user-attachments/assets/e14f4dd7-27a9-41b1-82c8-e71c3a438e52" /><img width="1203" height="810" alt="Overview_of_LA_CRIME_Analysis" src="https://github.com/user-attachments/assets/062cc5be-55aa-4a70-a2f0-d5cbccb4843e" /># LA-Crime-Data-Analysis-Project
 In this project, I analyzed crime data from Los Angeles to showcase the skills I’ve learned as a data analyst using Python(Pandas, Matplotlib & Tableau).
 # Project Background
 This project utilizes a dataset containing recorded incidents of crime in the City of Los Angeles, dating back to 2020. The data is transcribed from original paper-based crime reports, which may introduce minor inaccuracies. To ensure privacy, exact addresses are anonymized and only shown to the nearest hundred block, and some entries with missing location data are recorded as (0°, 0°).
@@ -57,7 +57,7 @@ The overall trend indicates sustained crime activity over the period. Crime show
 ![](Overview_of_LA_CRIME_Analysis.png)
 
 # Insights Deep Dive
-**Crime Trends Over Time:** Overall crimes highlights the importance of identifying dominant crime types and patterns to prioritize prevention and resource allocation. This suggests that property crimes and theft-related offenses are the most prevalent, particularly involving vehicles. The crimes tend to involve older victims, possibly reflecting workplace-related or situational offenses rather than street-level crimes. Immediate reporting is more common for public, visible, or urgent incidents, where victims or witnesses seek rapid response. The delays of reported crimes may reflect sensitive cases, fear of reporting, or prolonged investigation timelines, especially for crimes involving minors or internal misconduct. 
+**Crime Trends Over Time:** Overall crimes highlights the importance of identifying dominant crime types and patterns to prioritize prevention and resource allocation. This suggests that property crimes and theft-related offenses are the most prevalent, particularly involving vehicles. Majority of victims are young to middle-aged adults. This indicates that crimes disproportionately affect adults in their 20s to early 40s. This pattern may reflect social exposure and vulnerability, as adults in prime working age and social activity are more likely to encounter situations leading to victimization. The crimes for older victims, possibly reflecting workplace-related or situational offenses rather than street-level crimes. Immediate reporting is more common for public, visible, or urgent incidents, where victims or witnesses seek rapid response. The delays of reported crimes may reflect sensitive cases, fear of reporting, or prolonged investigation timelines, especially for crimes involving minors or internal misconduct. 
 
 - **Areas with most crimes during night-time.** 
 [Visualization specific to category 1]
