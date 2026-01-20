@@ -46,6 +46,8 @@ LA Crime database structure as seen below consists of one table with a total row
 # Executive Summary
 **Overview of Findings**
 
+From January 2020 to October 2023, crime incidents showed fluctuating trends with periods of decline and significant peaks. Crimes initially decreased from 18,496 in January 2020 to 15,683 in April 2020, followed by a gradual rise through 2021. Peaks occurred in October 2021 (19,305), March 2022 (19,687), and May 2022 (20,418), the latter being the highest in the period. Afterward, crime levels generally declined to 19,394 by October 2023, though overall incidents remained higher than early 2020 levels. Despite short-term decreases, the overall trend indicates sustained crime activity over the period.
+
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
