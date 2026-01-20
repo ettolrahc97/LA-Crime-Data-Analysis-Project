@@ -1,5 +1,5 @@
 # LA-Crime-Data-Analysis-Project
-In this project, I analyzed crime data from Los Angeles to showcase the skills I’ve learned as a data analyst using Python(Pandas, Matplotlib).
+In this project, I analyzed crime data from Los Angeles to showcase the skills I’ve learned as a data analyst using Python(Pandas, Matplotlib & Tableau).
 # Project Background
 This project utilizes a dataset containing recorded incidents of crime in the City of Los Angeles, dating back to 2020. The data is transcribed from original paper-based crime reports, which may introduce minor inaccuracies. To ensure privacy, exact addresses are anonymized and only shown to the nearest hundred block, and some entries with missing location data are recorded as (0°, 0°).
 
