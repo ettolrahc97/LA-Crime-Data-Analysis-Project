@@ -21,11 +21,11 @@ The Tableau dashboard used to report and explore patterns by time and location c
 LA Crime database structure as seen below consists of one table with a total row count of 852,950 records. A description of each column is as follows:
 - **division_number:** unique identifier of division.                              
 - **date_reported:** The date that was the crime reported.                         
-- **date_occurred:** The date that was crime occurred.                             
+- **date_occurred:** The date that was crime occurred with time.                             
 - **area:** Area number                                                            
 - **area_name:** Area location
 - **reporting_district:** Reporting district number
-- **part:** 
+- **part:** Number
 - **crime_code:** The unique identifier for each crime
 - **crime_description:** The title or name of a crime.
 - **victim_age:** The age of victims of the crime.
@@ -35,14 +35,14 @@ LA Crime database structure as seen below consists of one table with a total row
 - **premise_description:**
 - **status:**
 - **status_description:**
-- **crime_code_1:**
-- **location:**
+- **crime_code_1:** Code identifier for crime code 1.
+- **location:** The location of the crime.
 - **latitude:**
 - **longitude:**
-- **year:**
-- **month:**
-- **date_occurred_no_time:**
-- **Time To Report:**
+- **year:** The year crime occurred.
+- **month:** The month crime occurred.
+- **date_occurred_no_time:** The date that was crime occurred without time.
+- **Time To Report:** The time of how long the incident was reported.
 # Executive Summary
 **Overview of Findings**
 
