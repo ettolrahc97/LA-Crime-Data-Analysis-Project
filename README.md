@@ -61,6 +61,10 @@ The overall trend indicates sustained crime activity over the period. Crime show
 
 - **Areas with most crimes during night-time.** 
 [Visualization specific to category 1]
+- **Crimes Per Hour**
+[Visualization specific to category 1]
+- **Crimes that occurred at 12:00**
+[Visualization specific to category 1]
 
 # Recommendations:
 Based on the insights and findings above, the recommendations to consider the following: 
