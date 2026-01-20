@@ -15,7 +15,7 @@ The Python (Pandas) code used to inspect and clean the data for this analysis ca
 
 The Python (Pandas, Matplotlib) code regarding various business questions can be found [here](Analysis_Regarding_Questions.ipynb).
 
-The Tableau dashboard used to report and explore patterns by time and location can be found here[].
+The Tableau dashboard used to report and explore patterns by time and location can be found [here](https://public.tableau.com/views/CrimesOverTime/LACrimeOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 # Data Structure & Initial Checks
 LA Crime database structure as seen below consists of one table with a total row count of 852,950 records. A description of each column is as follows:
