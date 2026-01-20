@@ -1,4 +1,4 @@
-<img width="1203" height="810" alt="Overview_of_LA_CRIME_Analysis" src="https://github.com/user-attachments/assets/e14f4dd7-27a9-41b1-82c8-e71c3a438e52" /><img width="1203" height="810" alt="Overview_of_LA_CRIME_Analysis" src="https://github.com/user-attachments/assets/062cc5be-55aa-4a70-a2f0-d5cbccb4843e" /># LA-Crime-Data-Analysis-Project
+# LA-Crime-Data-Analysis-Project
 In this project, I analyzed crime data from Los Angeles to showcase the skills I’ve learned as a data analyst using Python(Pandas, Matplotlib & Tableau).
 # Project Background
 This project utilizes a dataset containing recorded incidents of crime in the City of Los Angeles, dating back to 2020. The data is transcribed from original paper-based crime reports, which may introduce minor inaccuracies. To ensure privacy, exact addresses are anonymized and only shown to the nearest hundred block, and some entries with missing location data are recorded as (0°, 0°).
