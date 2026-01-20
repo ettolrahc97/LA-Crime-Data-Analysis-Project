@@ -54,8 +54,7 @@ Most victims are adults between 22 and 42 years old, with the highest concentrat
 
 The overall trend indicates sustained crime activity over the period. Crime shows cyclical fluctuations with notable peaks and troughs, while reporting timelines and victim demographics vary widely by crime type. These patterns can help stakeholders focus on preventive strategies, faster reporting for sensitive cases, and targeted public safety interventions.
 
-
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![](Overview_of_LA_CRIME_Analysis.png)
 
 # Insights Deep Dive
 **Category 1:**
